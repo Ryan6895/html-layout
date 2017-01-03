@@ -1,0 +1,45 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.bluebox {
+  background-color: #4b9bd8;
+  width: 10vh;
+  height: 10vh;
+  margin-left: 20px;
+}
+.gray {
+  width: 100%;
+  height: 12vh;
+  padding-top: 20px;
+  background-color: #bcbfc4;
+}
+.white {
+  width: 100%;
+
+}
+.text {
+margin: 50px;
+font-size: 1.55em;
+font-family: sans-serif;
+}
+.blue {
+  width: 100%;
+  height: 15vh;
+  background-color: #4b9bd8;
+}
+.cyan {
+  width: 100%;
+  height: 15vh;
+  background-color: #4bd8c1;
+}
+.green {
+  width: 100%;
+  height: 15vh;
+  background-color: #c4ef4c;
+}
+.yellow {
+  width: 100%;
+  height: 15vh;
+  background-color: #e2d738;
+}

@@ -1,0 +1,27 @@
+body{
+  padding: 0px;
+  margin: 0px;
+}
+.topDark {
+  background-color: #595d63;
+  height: 150px;
+}
+.leftGray {
+  background-color: #cecece;
+  height: 1000px;
+  width: 130px;
+  float: left;
+}
+.rightGray {
+  background-color: #cecece;
+  height: 1000px;
+  float: right;
+  width: 130px;
+}
+.bottomDark {
+  background-color: #595d63;
+  height: 100px;
+  margin-left: 130px;
+  margin-right: 130px;
+  margin-top: 900px;
+}

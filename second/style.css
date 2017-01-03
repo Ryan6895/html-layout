@@ -1,0 +1,37 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.blue {
+height: 100vh;
+width: calc(100%/3);
+background-color: #45a1e8;
+float: left;
+}
+.green {
+height: 100vh;
+width: calc(100%/3);
+float:left;
+background-color: #81e2bb;
+}
+.brown {
+height: 100vh;
+width: calc(100%/3);
+background-color: #bfd879;
+float: left;
+position: relative;
+}
+.red {
+  background-color: red;
+  width: 100%;
+  height:250px;
+position: absolute;
+bottom: 0;
+color: white;
+font-family: arial;
+text-align: center;
+}
+h1{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
